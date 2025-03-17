@@ -30,7 +30,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-image: url("front-view-couple-kissing-indoors.jpg");
+  background-image: url("/front-view-couple-kissing-indoors.jpg");
   background-size: cover;
   /*background-position: center;*/
   background-position: 65% 25%;
