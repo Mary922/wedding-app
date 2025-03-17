@@ -78,7 +78,6 @@ function App() {
                 </div>
 
 
-                {/*<a href='/public/envelope-open-animation-with-hearts/dist/index.html'>dd</a>*/}
                 {/*<a href='/public/wedding-master/index.html'>открыть</a>*/}
             </div>
 
