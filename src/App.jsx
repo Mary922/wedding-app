@@ -40,13 +40,10 @@ function App() {
         setIsPlaying(true);
         lottieRef.current.play();
 
-        setTimeout(() => {
-            window.location.replace('http://wedding-couple.ru/static-site/'); // Переход на другую страницу
-        }, 3000);
 
-        // setTimeout(() => {
-        //     window.location.replace('/public/wedding-master/index.html'); // Переход на другую страницу
-        // }, 3000);
+        setTimeout(() => {
+            window.location.replace('/public/wedding-master/index.html'); // Переход на другую страницу
+        }, 3000);
     };
 
     const handleStop = () => {
