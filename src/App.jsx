@@ -41,8 +41,12 @@ function App() {
         lottieRef.current.play();
 
         setTimeout(() => {
-            window.location.replace('/public/wedding-master/index.html'); // Переход на другую страницу
+            window.location.replace('/static-site/'); // Переход на другую страницу
         }, 3000);
+
+        // setTimeout(() => {
+        //     window.location.replace('/public/wedding-master/index.html'); // Переход на другую страницу
+        // }, 3000);
     };
 
     const handleStop = () => {
