@@ -42,7 +42,7 @@ function App() {
 
 
         setTimeout(() => {
-            window.location.replace('/public/wedding-master/index.html'); // Переход на другую страницу
+            window.location.replace('/static-site'); // Переход на другую страницу
         }, 3000);
     };
 
